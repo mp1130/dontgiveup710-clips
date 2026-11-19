@@ -1,7 +1,9 @@
-# dontgiveup710 Clips
+# dontgiveup710 Clip Bot
 
-The best GTA 6 moments from the dontgiveup710 Twitch stream, clipped and posted as YouTube Shorts.
+The best moments from the dontgiveup710 Twitch stream, clipped automatically and posted as YouTube Shorts on his own YouTube channel.
 
-Watch live: https://www.twitch.tv/dontgiveup710
+This tool uses YouTube API Services to upload the Shorts. Developed with YouTube.
 
-Privacy policy: [privacy](privacy.html)
+Watch live on Twitch: https://www.twitch.tv/dontgiveup710
+
+[Privacy Policy](privacy.html) | [Terms of Service](terms.html) | [YouTube Terms of Service](https://www.youtube.com/t/terms) | [Google Privacy Policy](https://policies.google.com/privacy)
